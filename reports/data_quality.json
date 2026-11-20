@@ -1,0 +1,22 @@
+{
+  "rows": 129880,
+  "satisfied_share": 0.547,
+  "missing_arrival_delay": 393,
+  "duplicate_rows": 0,
+  "zero_ratings_share": {
+    "Seat comfort": 0.037,
+    "Departure/Arrival time convenient": 0.051,
+    "Food and drink": 0.046,
+    "Gate location": 0.0,
+    "Inflight wifi service": 0.001,
+    "Inflight entertainment": 0.023,
+    "Online support": 0.0,
+    "Ease of Online booking": 0.0,
+    "On-board service": 0.0,
+    "Leg room service": 0.003,
+    "Checkin service": 0.0,
+    "Cleanliness": 0.0,
+    "Online boarding": 0.0
+  },
+  "delay_correlation": 0.965
+}

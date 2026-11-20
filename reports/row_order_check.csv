@@ -1,0 +1,4 @@
+data,rows,satisfied_share,test_accuracy
+first 23616 rows,23616,0.505,0.9888
+random 23616 rows,23616,0.551,0.9426
+all rows,129880,0.547,0.9554

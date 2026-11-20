@@ -1,0 +1,15 @@
+service,low_share_dissatisfied,low_share_satisfied,gap
+Inflight entertainment,0.437,0.083,0.354
+Ease of Online booking,0.427,0.117,0.31
+Online boarding,0.419,0.131,0.289
+Online support,0.374,0.13,0.244
+On-board service,0.358,0.132,0.226
+Checkin service,0.355,0.141,0.214
+Seat comfort,0.51,0.297,0.212
+Leg room service,0.367,0.16,0.207
+Inflight wifi service,0.413,0.247,0.166
+Food and drink,0.448,0.338,0.11
+Baggage handling,0.216,0.122,0.094
+Cleanliness,0.215,0.12,0.094
+Departure/Arrival time convenient,0.343,0.363,-0.021
+Gate location,0.324,0.394,-0.07
